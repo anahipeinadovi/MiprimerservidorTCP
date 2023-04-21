@@ -2,11 +2,11 @@
 En este repositorio se encuentra código de la implementacion de un servidor y un cliente TCP en nodejs.
 Se hace el uso del modulo 'net' para crear y conectarse a un servidor en cierta direccion IP y un puerto,en este caso seria la direccion IP '127.0.0.1' y el puerto 3000.
 
-### Prerequisites
+### Prerequisitos
 
 Se deberan tener instaladas las dependencias correspondientes (nodejs y npm) 
 
-### Installing
+### Instalación
 
 1.Asegurarse de tener instaladas las dependencias correspondientes: https://midu.dev/como-instalar-node-en-mac-y-windows/
 2. Clonar este repositorio en tu computadora
@@ -18,17 +18,17 @@ Se deberan tener instaladas las dependencias correspondientes (nodejs y npm)
 6.Cuando se establece la conexión aparecerá un mensaje de éxito en la consola y cuando envíe datos desde el cliente al servidor, los datos se mostrarán en la consola del servidor. 
 Cuando el servidor envíe datos al cliente, los datos se mostrarán en la consola del cliente. Cuando cierre la conexión, verá un mensaje de desconexión en la consola del cliente.
 
-## Built With
+## Construido con 
 
 Node js
 npm 
 Javascript
 
 
-## Authors
+## Autores
 
 Anahí Peinado Villalobos 353262 
 
-## License
+## Licencia
 
 No cuenta con licencia 
